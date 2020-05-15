@@ -1,2 +1,0 @@
-# team-profile-generator
-Homework 
